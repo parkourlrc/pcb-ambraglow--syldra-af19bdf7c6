@@ -1,2 +1,2 @@
-![top](https://ambraglow.github.io/nonorf/top.png)
-![bottom](https://ambraglow.github.io/nonorf/bottom.png)
+![top](https://ambraglow.github.io/syldra/top.png)
+![bottom](https://ambraglow.github.io/syldra/bottom.png)
