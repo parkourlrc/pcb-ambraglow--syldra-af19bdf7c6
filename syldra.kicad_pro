@@ -476,7 +476,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "nonorf.kicad_pro",
+    "filename": "syldra.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -906,15 +906,15 @@
   },
   "pcbnew": {
     "last_paths": {
-      "gencad": "nonorf.cad",
+      "gencad": "syldra.cad",
       "idf": "",
       "netlist": "",
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "nonorf.step",
+      "step": "syldra.step",
       "svg": "",
-      "vrml": "nonorf.wrl"
+      "vrml": "syldra.wrl"
     },
     "page_layout_descr_file": ""
   },
